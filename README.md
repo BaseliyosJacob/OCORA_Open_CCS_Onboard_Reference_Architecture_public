@@ -1,0 +1,2 @@
+# OCORA_Open_CCS_Onboard_Reference_Architecture_public
+OCORA Public Repository 
